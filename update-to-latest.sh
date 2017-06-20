@@ -5,7 +5,7 @@
 
 git submodule update --recursive --remote &&
 
-echo "
+echo '
 Updated all repositories to the latest commit on master.
 
 You might find that "git status" reports something like:
@@ -17,4 +17,4 @@ was registered with this repository at the time. No worries.
 
 You can also cd into any of the repositories here and
 operate on them directly like normal git repositories.
-"
+'
