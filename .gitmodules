@@ -1,0 +1,27 @@
+[submodule "imagej-tutorials"]
+	path = imagej-tutorials
+	url = git://github.com/imagej/tutorials
+[submodule "imglib2-introductory-workshop"]
+	path = imglib2-introductory-workshop
+	url = git://github.com/imglib/imglib2-introductory-workshop
+[submodule "imglib2-advanced-workshop"]
+	path = imglib2-advanced-workshop
+	url = git://github.com/imglib/imglib2-advanced-workshop
+[submodule "TutorialClearVolume"]
+	path = TutorialClearVolume
+	url = git://github.com/fjug/TutorialClearVolume
+[submodule "imglib2-cache-examples"]
+	path = imglib2-cache-examples
+	url = git://github.com/imglib/imglib2-cache-examples
+[submodule "ij2course-images"]
+	path = ij2course-images
+	url = git://github.com/mpicbg-scicomp/ij2course-images
+[submodule "ij2course-tables"]
+	path = ij2course-tables
+	url = git://github.com/mpicbg-scicomp/ij2course-tables
+[submodule "ij2course-regions"]
+	path = ij2course-regions
+	url = git://github.com/mpicbg-scicomp/ij2course-regions
+[submodule "TutorialBigDataViewer"]
+	path = TutorialBigDataViewer
+	url = git://github.com/fjug/TutorialBigDataViewer
