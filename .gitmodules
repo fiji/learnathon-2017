@@ -34,3 +34,15 @@
 	path = TutorialBigDataViewer
 	url = git://github.com/fjug/TutorialBigDataViewer
 	branch = master
+[submodule "knip-course-ij2-buddy"]
+	path = knip-course-ij2-buddy
+	url = git://github.com/stelfrich/knip-course-ij2-buddy
+[submodule "knip-course-ij2-vanilla"]
+	path = knip-course-ij2-vanilla
+	url = git://github.com/stelfrich/knip-course-ij2-vanilla
+[submodule "imglyb-learnathon"]
+	path = imglyb-learnathon
+	url = git://github.com/hanslovsky/imglyb-learnathon
+[submodule "knip-course"]
+	path = knip-course
+	url = git://github.com/knime-ip/knip-course
