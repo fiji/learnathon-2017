@@ -40,3 +40,6 @@
 [submodule "knip-course"]
 	path = knip-course
 	url = git://github.com/knime-ip/knip-course
+[submodule "ij2course-scijava-plugin-mechanism"]
+	path = ij2course-scijava-plugin-mechanism
+	url = git://github.com/mpicbg-scicomp/ij2course-scijava-plugin-mechanism
