@@ -1,45 +1,45 @@
 [submodule "imagej-tutorials"]
 	path = imagej-tutorials
-	url = git://github.com/imagej/tutorials
+	url = https://github.com/imagej/tutorials
 	branch = master
 [submodule "imglib2-introductory-workshop"]
 	path = imglib2-introductory-workshop
-	url = git://github.com/imglib/imglib2-introductory-workshop
+	url = https://github.com/imglib/imglib2-introductory-workshop
 	branch = master
 [submodule "imglib2-advanced-workshop"]
 	path = imglib2-advanced-workshop
-	url = git://github.com/imglib/imglib2-advanced-workshop
+	url = https://github.com/imglib/imglib2-advanced-workshop
 	branch = master
 [submodule "TutorialClearVolume"]
 	path = TutorialClearVolume
-	url = git://github.com/fjug/TutorialClearVolume
+	url = https://github.com/fjug/TutorialClearVolume
 	branch = master
 [submodule "imglib2-cache-examples"]
 	path = imglib2-cache-examples
-	url = git://github.com/imglib/imglib2-cache-examples
+	url = https://github.com/imglib/imglib2-cache-examples
 	branch = master
 [submodule "ij2course-images"]
 	path = ij2course-images
-	url = git://github.com/mpicbg-scicomp/ij2course-images
+	url = https://github.com/mpicbg-scicomp/ij2course-images
 	branch = master
 [submodule "ij2course-tables"]
 	path = ij2course-tables
-	url = git://github.com/mpicbg-scicomp/ij2course-tables
+	url = https://github.com/mpicbg-scicomp/ij2course-tables
 	branch = master
 [submodule "ij2course-regions"]
 	path = ij2course-regions
-	url = git://github.com/mpicbg-scicomp/ij2course-regions
+	url = https://github.com/mpicbg-scicomp/ij2course-regions
 	branch = master
 [submodule "TutorialBigDataViewer"]
 	path = TutorialBigDataViewer
-	url = git://github.com/fjug/TutorialBigDataViewer
+	url = https://github.com/fjug/TutorialBigDataViewer
 	branch = master
 [submodule "imglyb-learnathon"]
 	path = imglyb-learnathon
-	url = git://github.com/hanslovsky/imglyb-learnathon
+	url = https://github.com/hanslovsky/imglyb-learnathon
 [submodule "knip-course"]
 	path = knip-course
-	url = git://github.com/knime-ip/knip-course
+	url = https://github.com/knime-ip/knip-course
 [submodule "ij2course-scijava-plugin-mechanism"]
 	path = ij2course-scijava-plugin-mechanism
-	url = git://github.com/mpicbg-scicomp/ij2course-scijava-plugin-mechanism
+	url = https://github.com/mpicbg-scicomp/ij2course-scijava-plugin-mechanism
